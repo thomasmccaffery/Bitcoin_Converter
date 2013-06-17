@@ -1,0 +1,28 @@
+/* ==========================================================================
+   Custom styles -- To Do Next
+   ========================================================================== */
+
+
+input, textarea, .uneditable-input {
+  width: 90%;
+}
+
+.input-append, .input-prepend {
+ width: 183px;
+}
+
+.col {
+    float:left;    
+}
+
+.input-append .add-on, .input-prepend .add-on {
+font-size: 17.5px;
+line-height:200%;
+font-weight:bold;
+}
+
+
+.label-side {
+    display: inline;
+    margin-bottom: 5px;
+}
